@@ -1,2 +1,2 @@
 # analysis
-NMEA protocol parsing library
+library for NMEA protocol parsing.
